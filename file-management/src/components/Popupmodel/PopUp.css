@@ -1,0 +1,12 @@
+ 
+  .Popmodal {
+    background: rgba(0, 0, 0, 0.6);
+  }
+  .Popmodal-container {
+    position: absolute;
+    width: 60%;
+    background: #610505;
+    left: 25%;
+    top: 30%;
+    padding: 20px;
+  }
